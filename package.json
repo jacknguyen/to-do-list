@@ -1,0 +1,13 @@
+{
+  "name": "basics",
+  "version": "0.1.0",
+  "author": "Jack Nguyen",
+  "private": true,
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-watch": "~0.6.0",
+    "grunt-php": "~1.0.1",
+    "grunt-open": "~0.2.3",
+    "matchdep": "~0.3.0"
+  }
+}
